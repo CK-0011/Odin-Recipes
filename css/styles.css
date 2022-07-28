@@ -1,0 +1,21 @@
+img {
+    height: 250px;
+    width: 1350px;
+}
+
+.head {
+    font-style: italic;
+    color: rgb(248, 250, 248);
+    position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.menu  {
+    font-style: italic;
+    text-align: center;
+}
+ 
+
